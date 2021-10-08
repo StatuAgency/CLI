@@ -1,0 +1,2 @@
+# cli
+Statu Project CLI
